@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Grains
 
 Welcome to Grains on Exercism's Rust Track.
